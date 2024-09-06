@@ -48,3 +48,11 @@ body {
   font-weight: 600;
   margin-top: 100px;
 }
+.play-btn {
+  width: 45px;
+  margin: 20px;
+}
+#banner a {
+  color: #fff;
+  text-decoration: none;
+}
