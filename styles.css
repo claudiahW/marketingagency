@@ -13,4 +13,5 @@ body {
 }
 .navbar {
   background-image: linear-gradient(to right, #a517ba, #5f1782);
+  padding: 0 !important;;
 }
