@@ -190,7 +190,7 @@ body {
   width: 120px;
 }
 
-.footer-box .fa {
+.footer-box .fa-solid{
   margin-right: 8px;
   font-size: 25px;
   height: 40px;
@@ -198,6 +198,7 @@ body {
   text-align: center;
   padding-top: 7px;
   border-radius: 2px;
+  background-image: linear-gradient(to right, #a517ba, #5f1782);
 }
 
 .footer-box .form-control {
@@ -223,5 +224,4 @@ hr {
   margin-bottom: 0;
   padding-bottom: 20px;
   text-align: center;
-  
 }
